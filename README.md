@@ -1,6 +1,6 @@
 # 🍫 Chocolate Sales Analysis
 
-An exploratory data analysis project focused on sales of chocolate products across different countries, products, and salespeople. This project answers strategic business questions using Python, Pandas, and Matplotlib.
+An exploratory data analysis project focused on sales of chocolate products across different countries, products, and salespeople. This project answers strategic business questions using Python, Pandas and Matplotlib.
 
 ---
 
